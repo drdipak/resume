@@ -1,6 +1,5 @@
 import dayjs from 'dayjs';
 
-
 const data = [
   {
     label: 'Stars this repository has on github',
