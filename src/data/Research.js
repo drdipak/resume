@@ -20,7 +20,7 @@ const About = () => (
     title=""
     description="Learn about Dr. Dipak Pinjari"
   >
-    <article className="post markdown" id="research">
+    <article className="post markdown" id="Research">
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/research">Research</Link></h2>

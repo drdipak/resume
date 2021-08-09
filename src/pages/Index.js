@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Dr. Dipak Pinjari's personal website.Dr. Dipak V. Pinjari is an UGC Assistant Professor in Engineering Sciences at Institute of Chemical Technology (ICT), Mumbai where he was instrumental in setting up the laboratory for process intensification and sustainable engineering. "}
+    description={"Dr. Dipak Pinjari's personal website. Dr. Dipak V. Pinjari is an UGC Assistant Professor in Engineering Sciences at Institute of Chemical Technology (ICT), Mumbai where he was instrumental in setting up the laboratory for process intensification and sustainable engineering. "}
   >
     <article className="post" id="index">
       <header>

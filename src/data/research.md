@@ -1,1 +1,1 @@
-Dr Dipak Pinjar is nice at being beating me
+Dr Dipak Pinjari is nice at being beating me
