@@ -59,6 +59,73 @@ been provided in Annexure.
 Till date, I have presented 27 Invited talks and 39 National and International conference 
 presentations. Complete list has been provided in Annexure II.
 
+# Seminar/Invited Lectures-27
+- Invited lecture presented on “Innovation and Invention from Local to Global 
+Perspective” at Annasaheb Dange Colleges Campus, Ashta Dist. Sangli on 21st
+November 2019.
+- Invited lecture presented on “Innovative Technologies for Water and Wastewater 
+Remediation” in UGC HRDC refresher course on “Applied Physics”, organized by 
+Department of Physics, University of Mumbai on 16th November 2019.
+- Invited lecture presented on “Overview of Indian Innovation and Youth 
+Entrepreneurship” at BRICS Young Scientist Conclave 2019, organized by Ministry of 
+Science and Technology, Government of Brazil on 6th November 2019.
+- Chief Guest for National Innovation Day Celebration at Annasaheb Awate College, 
+Manchar, Ambegaon, Pune (India) on 15th October 2019 
+- Invited lecture presented on “Hand Pump based Water Disinfection” at International 
+Conference and Anniversary Annual General Meeting (AGM – 2019) of the Global 
+Young Academy in Germany on 2nd May 2019.
+- Session Chair, NanoExpress-2019, National Level Conference, organized by National 
+Center for Nanoscience and Nanotechnology, University of Mumbai on 15-16th March 2019
+- Invited lecture presented on, “Role of Micro-bubbles in Synthesis and 
+Commercialization of Nanomaterials” at UGC short term course on Nanoscience and 
+Nanotechnology organized by HRDC, University of Mumbai on 16th February 2019.
+- Invited as an Energy and Process Intensification Expert for round table conference in 
+2nd International Conference Workshop on Energy Innovation Initiatives for Attaining Sustainable Development Goals (EIISDG) 2019, organized by Niti Aayog and UPES Dehradun on 13-15th 2019.
+- Invited lecture presented on, “Role of Energy Intensified Techniques for Nanomaterial 
+Synthesis/Fabrication” at UPES Dehradun on 12th February 2019.
+- Chief Guest for Vigyaan 2018 at Thakur college of science and commerce, Thakur 
+village, Kandivali East, Mumbai on 5th December 2018.
+- Chief Guest for 72nd Independence Day of India at Late Dhula Zimbal Highschool, 
+Lingivare, Dist - Sangali on 15th August 2018.
+- Chief Guest for National Science Day at Dahivadi College Dahivadi on 28th February 2017.
+- Invited lecture presented on, “Usage of Cavitation Technology for Process Intensification” at BVCOE, Belapur Mumbai on 1st February 2017
+- Invited lecture presented on, “Cavitation Technology for Environments at NIT Warangal (India) on 24th July 2016.
+- Seminar presented on, “Cavitation Technology for Societal and Industrial Solution in 
+Chemical Engineering department at IIT Madras (India) on 9th May 2016.
+- Invited lecture presented on, “Cavitation Technology for Sustainability at UPES 
+Dehradun (India) on 03rd November 2015.
+- Invited lecture presented on, “Cavitation Technology: A Novel Approach for 
+Formulations of Nanocontainers for Performance Applications” at Iowa State University (USA) on 27th January 2015.
+- Invited lecture presented on, “Application of Cavitation Technology: in Physico Chemical Transformation of materials at Nanoscale, at University of Louisville (USA) on 2nd February 2015
+- Invited lecture presented on, “Waste Water Treatment using Cavitation Technology, at 
+Western Michigan University (USA) on 6th February 2015
+- Invited lecture presented on, “Formulations of Nanomaterials using Sonochemical 
+Method” at university of Illinois Urbana Champaign (USA) on 25th February 2015
+- Invited lecture presented on, “Cavitation Technology: A New Horizon Technology for 
+Synthesizing Nanocontainers for Drug Delivery” at Harvard Catalyst Group, Harvard 
+Brigham and Women's Hospital, Harvard University (USA) on 12th December 2014
+- Invited lecture presented on, “Cavitation Technology: Future Technology for 
+Synthesizing Organic and Inorganic Materials” at Department of Chemistry and 
+Biochemistry, Georgia Institute of Technology, Atlanta (USA) on 16th May 2014
+- Invited lecture presented on, “Cavitation Technology: An Energy Efficient Technology 
+for Production of Nanoparticles” in Three days National Workshop on Nanomaterials 
+and Nanotechnology, organized by Maharashtra Institute of Technology, Aurangabad on 
+15-17th February 2013.
+- Invited lecture presented on, “Synthesis of Nanomaterials: A Greener Approaches” in 
+two week workshop on Nanomaterials under TEQUIP program, organized by 
+Mechanical Engineering Department, Babasaheb Ambedkar Technological University, 
+Lonere on 16th June 2013.
+- Invited lecture presented on, “Inorganic particle production through Sonoprocess 
+Engineering” in two day workshop on Sono Process Engineering and Reactors for 
+Nanomaterials under TEQIP program, organized by Chemical Engineering Department, 
+National Institute of Technology, Warangal on 23-24th February 2013.
+- Invited lecture presented on, “Cavitation Technology: A Greener Tool For Producing 
+Nanomaterial” in UGC supported STTP Workshop on Nanotechnology for Engineering 
+Faculty, organized by Chemical Engineering and Technology Department, NMU 
+Jalgoan (India) on 5th April 2010.
+- Invited lecture presented on “Nanomaterials Production: A Cavitational Approach” in 
+Chemference 2010, organized by PVPIT Sangli (India) on 6th March 2010.
+
 # 39 National and International confrence
 
 - A. J. Jadhav, D. V. Pinjari, A. B. Pandit, Cavitation Induced Physico-chemical 

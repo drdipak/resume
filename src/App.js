@@ -16,6 +16,7 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 const Awards = lazy(() => import('./pages/Awards'));
+const Research = lazy(() => import('./pages/Research'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -28,6 +29,7 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/awards" component={Awards} />
+        <Route path="/research" component={Research} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

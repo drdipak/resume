@@ -1,7 +1,30 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import { Pie } from 'react-chartjs-2';
 import Main from '../layouts/Main';
+
+const data = {
+  labels: ['International Research Papers', 'National Reviews', 'International book chapters', 'Indian patents'],
+  datasets: [
+    {
+      label: '# of Votes',
+      data: [80, 5, 9, 7],
+      backgroundColor: [
+        'rgba(255, 99, 132, 0.2)',
+        'rgba(54, 162, 235, 0.2)',
+        'rgba(255, 206, 86, 0.2)',
+        'rgba(192, 192, 192, 0.2)',
+      ],
+      borderColor: [
+        'rgba(255, 99, 132, 1)',
+        'rgba(54, 162, 235, 1)',
+        'rgba(255, 206, 86, 1)',
+        'rgba(75, 192, 192, 1)',
+      ],
+      borderWidth: 1,
+    },
+  ],
+};
 
 const Index = () => (
   <Main
@@ -19,10 +42,14 @@ const Index = () => (
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
+        <Link to="/research">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
+        The pie chart below shows about Dr. Dipak Pinjari publications.
       </p>
+      <div height="30%">
+        <Pie data={data} width="50%" options={{ responsive: true, maintainAspectRatio: false }} />
+      </div>
     </article>
   </Main>
 );

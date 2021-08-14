@@ -15,9 +15,9 @@ const count = markdown.split(/\s+/)
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const About = () => (
+const research = () => (
   <Main
-    title=""
+    title="Research"
     description="Learn about Dr. Dipak Pinjari"
   >
     <article className="post markdown" id="Research">
@@ -38,4 +38,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default research;

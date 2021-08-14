@@ -13,20 +13,20 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'Research',
+    path: '/research',
   },
   {
     label: 'Stats',
     path: '/stats',
   },
   {
-    label: 'Contact',
-    path: '/contact',
-  },
-  {
     label: 'Awards',
     path: '/awards',
+  },
+  {
+    label: 'Contacts',
+    path: '/contact',
   },
 ];
 
